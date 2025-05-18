@@ -24,7 +24,7 @@ Senior web developer with expertise in modern JavaScript frameworks and full-sta
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techyhk&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 ### E-Commerce Platform
